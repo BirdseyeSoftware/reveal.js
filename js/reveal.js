@@ -1610,6 +1610,8 @@ var Reveal = (function(){
     navigatePrev: navigatePrev,
     navigateNext: navigateNext,
 
+    isOverviewActive: isOverviewActive,
+    isPaused: isPaused,
     // Toggles the overview mode on/off
     toggleOverview: toggleOverview,
     deactivateOverview: deactivateOverview,
